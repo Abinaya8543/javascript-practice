@@ -1,0 +1,19 @@
+// let A=8;
+// let B=4;
+// let C=5;
+// let D=(A&B)&C;
+// console.log(D);
+
+
+
+// let A=4;
+// let b=8;
+// let C=A^B;
+// console.log(c);
+
+
+
+
+// let A=8;
+// let B=A<<5;
+// console.log(B);
